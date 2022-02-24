@@ -9,6 +9,9 @@ I have the following configuration on an ESP8266 connected via relay to an old m
 
 Using the relay via USB port, the program recognizes whether the board or TV is on or off and performs adequate automation accordingly.
 
+[**ESPHome library for IR transmitter**](https://esphome.io/components/remote_transmitter.html)
+[**ESPHome library for IR reciever**](https://esphome.io/components/remote_receiver.html)
+
 ## Basic wiring:
 
 ![Schema](https://github.com/peca2345/ESPHome-IR-reciever/blob/main/IMG/schema.png?raw=true)
