@@ -13,6 +13,10 @@ Using the relay via USB port, the program recognizes whether the board or TV is 
 
 ![MB](https://github.com/peca2345/ESPHome-IR-reciever/blob/main/IMG/TVMB-IR.png?raw=true)
 
+## Basic wiring:
+
+![Schema](https://github.com/peca2345/ESPHome-IR-reciever/blob/main/IMG/schema.png?raw=true)
+
 ## ESPHome code:
 
 ```
